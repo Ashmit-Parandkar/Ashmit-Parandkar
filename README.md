@@ -21,8 +21,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Famazon-web-services-logo%2F&psig=AOvVaw13c6RfnEpXu_4ZpUfr7bzP&ust=1756716347480000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNixpMHUtI8DFQAAAAAdAAAAABAE)" alt="AWS" width="40" height="40"/> 
+<a href="https://www.cprogramming.com/](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Famazon-web-services-logo%2F&psig=AOvVaw13c6RfnEpXu_4ZpUfr7bzP&ust=1756716347480000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNixpMHUtI8DFQAAAAAdAAAAABAE)" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Famazon-web-services-logo%2F&psig=AOvVaw13c6RfnEpXu_4ZpUfr7bzP&ust=1756716347480000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNixpMHUtI8DFQAAAAAdAAAAABAE)" alt="AWS" width="40" height="40"/> 
 </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
