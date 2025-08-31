@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashmit Parandkar</h1>
 <h3 align="center">Full-Stack Web Developer & Machine Learning Enthusiast | CSE Student</h3>
-<img align="right" alt="CODING" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
+<img align="right" alt="CODING" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*xNQKHj5vR7w9AcY_bDKYYw.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2ZmmY-i4VGhoFg_T3B31v9&ust=1756715773954000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCF2a_StI8DFQAAAAAdAAAAABB2)">
 
 - 🔭 I’m currently working on **MedPredict**
 
