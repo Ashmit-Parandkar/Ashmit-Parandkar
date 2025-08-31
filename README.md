@@ -28,7 +28,7 @@
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.63.0/files/dark/snowflake-color.png" alt="Snowflake" width="40" height="40"/> 
 </a> 
 <a href="https://deinfo.uepg.br/~alunoso/2020/SO/apacheSpark/imagem/apacheSparkLogoBranco.png" target="_blank" rel="noreferrer"> 
-  <img src="https://deinfo.uepg.br/~alunoso/2020/SO/apacheSpark/imagem/apacheSparkLogoBranco.png" alt="Snowflake" width="40" height="40"/> 
+  <img src="https://deinfo.uepg.br/~alunoso/2020/SO/apacheSpark/imagem/apacheSparkLogoBranco.png" alt="Pyspark" width="50" height="40  style="position: relative; top: -10px;"/> 
 </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
